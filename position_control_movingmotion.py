@@ -92,3 +92,4 @@ for nPort in anPorts:
 # 통신을 닫는다.
 m_CMot.Close()
 
+#you need a OpenJigware dll
